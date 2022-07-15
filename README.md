@@ -6,7 +6,7 @@
 ## I'm Caique Dev!
 
 
-:computer: I'm developer full Stack JR !
+:computer: I'm developer full Stack!
 
 
 :house_with_garden: I’m from Brazil.
